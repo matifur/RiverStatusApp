@@ -1,0 +1,427 @@
+2024-06-20 10:38:57 DEBUG RiverDataFetcher:63 - HTML Document: <!doctype html>
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>
+                    Ostrzeżenia , komunikaty
+            
+    </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/bundles/timeteoportal/css/modern-business.css" type="text/css" media="screen">
+  <link rel="stylesheet" href="/bundles/timeteoportal/css/bootstrap.default.min.css" type="text/css" media="screen">
+  <link rel="stylesheet" href="/bundles/timeteoportal/css/jquery-ui.css" type="text/css" media="screen">
+  <link rel="stylesheet" href="/bundles/timeteoportal/font-awesome/css/font-awesome.min.css" type="text/css" media="screen"><!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries --> <!--[if lt IE 9]>
+              <script src="/bundles/timeteoportal/js/html5shiv.js"></script>
+              <script src="/bundles/timeteoportal/js/respond.min.js"></script>
+              
+           <![endif]-->
+ </head>
+ <body>
+  <a name="top"></a>
+  <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+   <div class="container">
+    <div class="navbar-header">
+     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button> <!-- You'll want to use a responsive image option so this logo looks good on devices - I recommend using something like retina.js (do a quick Google search for it and you'll find it) --> <img src="/bundles/timeteoportal/images/RSO_logo_podst.png" onclick="window.location.href='/'" style=" cursor: pointer">
+    </div><!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse navbar-ex1-collapse">
+     <ul class="nav navbar-nav navbar-right">
+      <li class="active"><a href="/komunikaty/wszystkie/wszystkie">Komunikaty</a></li>
+      <li class="dropdown "><a href="#" class="dropdown-toggle" data-toggle="dropdown">Województwa<b class="caret"></b></a>
+       <ul class="dropdown-menu">
+        <li><a href="/wojewodztwa">Lista dostępnych województw</a></li>
+        <li><a href="/komunikaty/dolnoslaskie/wszystkie">Dolnośląskie</a></li>
+        <li><a href="/komunikaty/kujawsko-pomorskie/wszystkie">Kujawsko-Pomorskie</a></li>
+        <li><a href="/komunikaty/lubelskie/wszystkie">Lubelskie</a></li>
+        <li><a href="/komunikaty/lubuskie/wszystkie">Lubuskie</a></li>
+        <li><a href="/komunikaty/lodzkie/wszystkie">Łódzkie</a></li>
+        <li><a href="/komunikaty/malopolskie/wszystkie">Małopolskie</a></li>
+        <li><a href="/komunikaty/mazowieckie/wszystkie">Mazowieckie</a></li>
+        <li><a href="/komunikaty/opolskie/wszystkie">Opolskie</a></li>
+        <li><a href="/komunikaty/podkarpackie/wszystkie">Podkarpackie</a></li>
+        <li><a href="/komunikaty/podlaskie/wszystkie">Podlaskie</a></li>
+        <li><a href="/komunikaty/pomorskie/wszystkie">Pomorskie</a></li>
+        <li><a href="/komunikaty/slaskie/wszystkie">Śląskie</a></li>
+        <li><a href="/komunikaty/swietokrzyskie/wszystkie">Świętokrzyskie</a></li>
+        <li><a href="/komunikaty/warminsko-mazurskie/wszystkie">Warmińsko-Mazurskie</a></li>
+        <li><a href="/komunikaty/wielkopolskie/wszystkie">Wielkopolskie</a></li>
+        <li><a href="/komunikaty/zachodniopomorskie/wszystkie">Zachodniopomorskie</a></li>
+       </ul></li>
+      <li class="dropdown"><a href="/instrukcje" class="dropdown-toggle" data-toggle="dropdown">Poradniki <b class="caret"></b></a>
+       <ul class="dropdown-menu">
+        <li><a href="/poradniki#burzeinawalnice">Burze i nawałnice</a></li>
+        <li><a href="/poradniki#wichury">Wichury</a></li>
+        <li><a href="/poradniki#powodz">Powódź</a></li>
+        <li><a href="/poradniki#upaly">Upały</a></li>
+        <li><a href="/poradniki#zima">Zima</a></li>
+        <li><a href="/poradniki#bezpiecznywypoczynek">Bezpieczny wypoczynek</a></li>
+        <li><a href="/poradniki#pozar">Pożar</a></li>
+        <li><a href="/poradniki#zatrucieczadem">Zatrucie czadem</a></li>
+        <li><a href="/poradniki#bezpiecznefajerwerki">Bezpieczne fajerwerki</a></li>
+        <li><a href="/poradniki#katastrofabudowlana">Katastrofa budowlana</a></li>
+        <li><a href="/poradniki#skazeniesubstancjatoksyczna">Skażenie substancją toksyczną</a></li>
+        <li><a href="/poradniki#zagrozeniaterrorystyczne">Zagrożenia terrorystyczne</a></li>
+        <li><a href="/poradniki#alarmbombowy">Alarm bombowy</a></li>
+        <li><a href="/poradniki#niebezpiecznaprzesylka">Niebezpieczna przesyłka</a></li>
+        <li><a href="/poradniki#niewypalyniewybuchy">Niewypały, niewybuchy</a></li>
+        <li><a href="/poradniki#pierwszapomoc">Pierwsza pomoc</a></li>
+        <li><a href="/poradniki#zatruciesubstancjamipsychoaktywnymi">Zatrucie substancjami psychoaktywnymi</a></li>
+        <li><a href="/poradniki#alarmowanieiostrzeganie">Alarmowanie i ostrzeganie</a></li>
+        <li><a href="/poradniki#wazneinformacje">Ważne informacje</a></li>
+        <li><a href="/poradniki#cyberbezpieczenstwo">Cyberbezpieczeństwo</a></li>
+       </ul></li>
+      <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Informacje <b class="caret"></b></a>
+       <ul class="dropdown-menu">
+        <li><a href="/aplikacja_mobilna">Aplikacja mobilna</a></li>
+        <li><a href="/integracja">Integracja</a></li>
+       </ul></li>
+      <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Style <b class="caret"></b></a>
+       <ul class="dropdown-menu">
+        <li><a href="http://komunikaty.tvp.pl/komunikaty/zachodniopomorskie/stany-wod?theme=default">Podstawowy</a></li>
+        <li><a href="http://komunikaty.tvp.pl/komunikaty/zachodniopomorskie/stany-wod?theme=readable">Czytelny</a></li>
+        <li><a href="http://komunikaty.tvp.pl/komunikaty/zachodniopomorskie/stany-wod?theme=cyborg">Kontrastowy</a></li>
+       </ul></li>
+     </ul>
+    </div><!-- /.navbar-collapse -->
+   </div><!-- /.container -->
+  </nav>
+  <div class="container">
+   <div class="row">
+    <div class="col-lg-12">
+     <h1 class="page-header">Komunikaty <small>Stany wód</small></h1>
+     <ol class="breadcrumb">
+      <li><a href="/">Start</a></li>
+      <li><a href="/wojewodztwa">Województwo:</a></li>
+      <li class="active">Zachodniopomorskie</li>
+      <li class="active">Stany wód</li>
+     </ol>
+    </div>
+   </div>
+  </div>
+  <div class="container">
+   <div class="row">
+    <div class="col-md-3 col-sm-4 sidebar" style="margin-top: 0px">
+     <ul class="nav nav-stacked nav-pills">
+      <li><a href="/komunikaty/zachodniopomorskie/wszystkie">Wszystkie kategorie</a></li>
+      <li><a class="customUrl" href="/komunikaty/zachodniopomorskie/ogolne">Ogólne</a></li>
+      <li><a class="customUrl" href="/komunikaty/zachodniopomorskie/meteorologiczne">Meteorologiczne</a></li>
+      <li><a class="customUrl" href="/komunikaty/zachodniopomorskie/hydrologiczne">Hydrologiczne</a></li>
+      <li><a class="customUrl" href="/komunikaty/zachodniopomorskie/informacje-drogowe">Informacje drogowe</a></li>
+      <li class="active"><a class="customUrl" href="/komunikaty/zachodniopomorskie/stany-wod">Stany wód</a></li>
+     </ul>
+    </div>
+    <div class="col-md-9 col-sm-8">
+     <div class="well" style="background-color: #eef0f1; min-height: 70px;">
+      <div class="form-group col-lg-3">
+       <input type="search" value="" id="search-id" class="form-control" name="search" placeholder="szukaj..." style="height: 27px; font-size: 11px; ">
+      </div>
+      <div class="form-group col-lg-3">
+       <input type="text" value="" id="from-id" class="form-control" name="from" placeholder="data od... (rrrr-mm-dd)" style="height: 27px; font-size: 11px;">
+      </div>
+      <div class="form-group col-lg-3">
+       <input type="text" value="" id="to-id" class="form-control" name="to" placeholder="data do... (rrrr-mm-dd)" style="height: 27px; font-size: 11px;">
+      </div>
+      <div class="form-group col-lg-3">
+       <button class="btn btn-primary" type="button" id="search-btn-id" style="font-size: 10px; height: 27px;">Filtruj</button>
+      </div>
+      <div class="clearfix"></div>
+     </div>
+     <div class="page-header">
+      <h3>Stany wód</h3>
+     </div>
+     <div id="geomaprowid">
+      <imgp-map id="map1" style="width:100%; height:400px;" zoom="1" center="[52.06526459711637, 19.8192465920296]" epsg="2180:G2" basemap="G2:MOBILE_TOPO_I" no-zoom-control>
+      </imgp-map>
+     </div><span>źródło: IMGW-PIB</span>
+     <table class="table table-striped">
+      <thead>
+       <tr>
+        <th>Rzeka</th>
+        <th>Wodowskaz</th>
+        <th>Stan aktualny</th>
+        <th>Trend</th>
+        <th>Stan ostrzegawczy</th>
+        <th>Stan alarmowy</th>
+        <th>Aktualizacja</th>
+       </tr>
+      </thead>
+      <tbody>
+       <tr>
+        <td>Bałtyk</td>
+        <td>Kołobrzeg</td>
+        <td>502 cm</td>
+        <td><big>↔</big> bez zmian</td>
+        <td>570 cm</td>
+        <td>610 cm</td>
+        <td>2024-06-20 09:00:00</td>
+       </tr><input type="hidden" id="entity_id[]" name="entity_id[]" value="20715649"> <input type="hidden" id="maplatitude20715649" value="54.186666666667"> <input type="hidden" id="maplongitude20715649" value="15.553333333333"> <input type="hidden" id="maprange20715649" value="0"> <input type="hidden" id="range_unit20715649" value="km">
+       <tr>
+        <td>Odra</td>
+        <td>Szczecin Most Długi</td>
+        <td>517 cm</td>
+        <td><big>↔</big> bez zmian</td>
+        <td>570 cm</td>
+        <td>600 cm</td>
+        <td>2024-06-20 09:00:00</td>
+       </tr><input type="hidden" id="entity_id[]" name="entity_id[]" value="20715651"> <input type="hidden" id="maplatitude20715651" value="53.4225"> <input type="hidden" id="maplongitude20715651" value="14.559722222222"> <input type="hidden" id="maprange20715651" value="0"> <input type="hidden" id="range_unit20715651" value="km">
+       <tr>
+        <td>Zalew Szczeciński</td>
+        <td>Trzebież</td>
+        <td>512 cm</td>
+        <td><big>↔</big> bez zmian</td>
+        <td>540 cm</td>
+        <td>560 cm</td>
+        <td>2024-06-20 08:50:00</td>
+       </tr><input type="hidden" id="entity_id[]" name="entity_id[]" value="20715648"> <input type="hidden" id="maplatitude20715648" value="53.658888888889"> <input type="hidden" id="maplongitude20715648" value="14.518611111111"> <input type="hidden" id="maprange20715648" value="0"> <input type="hidden" id="range_unit20715648" value="km">
+       <tr>
+        <td>Odra</td>
+        <td>Gryfino</td>
+        <td>520 cm</td>
+        <td><big>↓</big> malejący</td>
+        <td>570 cm</td>
+        <td>600 cm</td>
+        <td>2024-06-20 08:50:00</td>
+       </tr><input type="hidden" id="entity_id[]" name="entity_id[]" value="20715650"> <input type="hidden" id="maplatitude20715650" value="53.2575"> <input type="hidden" id="maplongitude20715650" value="14.485555555556"> <input type="hidden" id="maprange20715650" value="0"> <input type="hidden" id="range_unit20715650" value="km">
+       <tr>
+        <td>Ina</td>
+        <td>Goleniów</td>
+        <td>140 cm</td>
+        <td><big>↔</big> bez zmian</td>
+        <td>270 cm</td>
+        <td>320 cm</td>
+        <td>2024-06-20 08:50:00</td>
+       </tr><input type="hidden" id="entity_id[]" name="entity_id[]" value="20715652"> <input type="hidden" id="maplatitude20715652" value="53.563611111111"> <input type="hidden" id="maplongitude20715652" value="14.827777777778"> <input type="hidden" id="maprange20715652" value="0"> <input type="hidden" id="range_unit20715652" value="km">
+       <tr>
+        <td>Ina</td>
+        <td>Stargard Szczeciński</td>
+        <td>105 cm</td>
+        <td><big>↔</big> bez zmian</td>
+        <td>250 cm</td>
+        <td>280 cm</td>
+        <td>2024-06-20 08:50:00</td>
+       </tr><input type="hidden" id="entity_id[]" name="entity_id[]" value="20715653"> <input type="hidden" id="maplatitude20715653" value="53.351111111111"> <input type="hidden" id="maplongitude20715653" value="15.042222222222"> <input type="hidden" id="maprange20715653" value="0"> <input type="hidden" id="range_unit20715653" value="km">
+       <tr>
+        <td>Bałtyk</td>
+        <td>Świnoujście</td>
+        <td>506 cm</td>
+        <td><big>↔</big> bez zmian</td>
+        <td>560 cm</td>
+        <td>580 cm</td>
+        <td>2024-06-20 08:50:00</td>
+       </tr><input type="hidden" id="entity_id[]" name="entity_id[]" value="20715654"> <input type="hidden" id="maplatitude20715654" value="53.908333333333"> <input type="hidden" id="maplongitude20715654" value="14.264444444444"> <input type="hidden" id="maprange20715654" value="0"> <input type="hidden" id="range_unit20715654" value="km">
+       <tr>
+        <td>Cieśnina Dziwna</td>
+        <td>Dziwnów</td>
+        <td>517 cm</td>
+        <td><big>↔</big> bez zmian</td>
+        <td>560 cm</td>
+        <td>580 cm</td>
+        <td>2024-06-20 08:50:00</td>
+       </tr><input type="hidden" id="entity_id[]" name="entity_id[]" value="20715655"> <input type="hidden" id="maplatitude20715655" value="54.020277777778"> <input type="hidden" id="maplongitude20715655" value="14.731388888889"> <input type="hidden" id="maprange20715655" value="0"> <input type="hidden" id="range_unit20715655" value="km">
+       <tr>
+        <td>Cieśnina Dziwna</td>
+        <td>Wolin</td>
+        <td>512 cm</td>
+        <td><big>↔</big> bez zmian</td>
+        <td>560 cm</td>
+        <td>580 cm</td>
+        <td>2024-06-20 08:50:00</td>
+       </tr><input type="hidden" id="entity_id[]" name="entity_id[]" value="20715656"> <input type="hidden" id="maplatitude20715656" value="53.838611111111"> <input type="hidden" id="maplongitude20715656" value="14.616666666667"> <input type="hidden" id="maprange20715656" value="0"> <input type="hidden" id="range_unit20715656" value="km">
+       <tr>
+        <td>Odra</td>
+        <td>Gozdowice</td>
+        <td>253 cm</td>
+        <td><big>↔</big> bez zmian</td>
+        <td>440 cm</td>
+        <td>500 cm</td>
+        <td>2024-06-20 08:50:00</td>
+       </tr><input type="hidden" id="entity_id[]" name="entity_id[]" value="20715657"> <input type="hidden" id="maplatitude20715657" value="52.764166666667"> <input type="hidden" id="maplongitude20715657" value="14.317777777778"> <input type="hidden" id="maprange20715657" value="0"> <input type="hidden" id="range_unit20715657" value="km">
+       <tr>
+        <td>Odra</td>
+        <td>Widuchowa</td>
+        <td>522 cm</td>
+        <td><big>↔</big> bez zmian</td>
+        <td>630 cm</td>
+        <td>650 cm</td>
+        <td>2024-06-20 08:50:00</td>
+       </tr><input type="hidden" id="entity_id[]" name="entity_id[]" value="20715658"> <input type="hidden" id="maplatitude20715658" value="53.1225"> <input type="hidden" id="maplongitude20715658" value="14.381944444444"> <input type="hidden" id="maprange20715658" value="0"> <input type="hidden" id="range_unit20715658" value="km">
+       <tr>
+        <td>Odra</td>
+        <td>Widuchowa</td>
+        <td>522 cm</td>
+        <td><big>↔</big> bez zmian</td>
+        <td>630 cm</td>
+        <td>650 cm</td>
+        <td>2024-06-20 08:50:00</td>
+       </tr><input type="hidden" id="entity_id[]" name="entity_id[]" value="20715659"> <input type="hidden" id="maplatitude20715659" value="52.129882"> <input type="hidden" id="maplongitude20715659" value="14.38282"> <input type="hidden" id="maprange20715659" value="0"> <input type="hidden" id="range_unit20715659" value="km">
+       <tr>
+        <td>Odra (Regalica)</td>
+        <td>Szczecin Podjuchy</td>
+        <td>524 cm</td>
+        <td><big>↔</big> bez zmian</td>
+        <td>580 cm</td>
+        <td>610 cm</td>
+        <td>2024-06-20 08:50:00</td>
+       </tr><input type="hidden" id="entity_id[]" name="entity_id[]" value="20715660"> <input type="hidden" id="maplatitude20715660" value="53.372781"> <input type="hidden" id="maplongitude20715660" value="14.595852"> <input type="hidden" id="maprange20715660" value="0"> <input type="hidden" id="range_unit20715660" value="km">
+       <tr>
+        <td>Rega</td>
+        <td>Resko</td>
+        <td>315 cm</td>
+        <td><big>↔</big> bez zmian</td>
+        <td>410 cm</td>
+        <td>430 cm</td>
+        <td>2024-06-20 08:50:00</td>
+       </tr><input type="hidden" id="entity_id[]" name="entity_id[]" value="20715661"> <input type="hidden" id="maplatitude20715661" value="53.768906"> <input type="hidden" id="maplongitude20715661" value="15.40678"> <input type="hidden" id="maprange20715661" value="0"> <input type="hidden" id="range_unit20715661" value="km">
+       <tr>
+        <td>Parsęta</td>
+        <td>Bardy</td>
+        <td>200 cm</td>
+        <td><big>↔</big> bez zmian</td>
+        <td>360 cm</td>
+        <td>400 cm</td>
+        <td>2024-06-20 08:50:00</td>
+       </tr><input type="hidden" id="entity_id[]" name="entity_id[]" value="20715662"> <input type="hidden" id="maplatitude20715662" value="54.090711"> <input type="hidden" id="maplongitude20715662" value="15.715256"> <input type="hidden" id="maprange20715662" value="0"> <input type="hidden" id="range_unit20715662" value="km">
+       <tr>
+        <td>Parsęta</td>
+        <td>Białogard</td>
+        <td>89 cm</td>
+        <td><big>↔</big> bez zmian</td>
+        <td>270 cm</td>
+        <td>290 cm</td>
+        <td>2024-06-20 08:50:00</td>
+       </tr><input type="hidden" id="entity_id[]" name="entity_id[]" value="20715663"> <input type="hidden" id="maplatitude20715663" value="54.004919"> <input type="hidden" id="maplongitude20715663" value="15.977941"> <input type="hidden" id="maprange20715663" value="0"> <input type="hidden" id="range_unit20715663" value="km">
+       <tr>
+        <td>Parsęta</td>
+        <td>Tychówko</td>
+        <td>150 cm</td>
+        <td><big>↔</big> bez zmian</td>
+        <td>320 cm</td>
+        <td>380 cm</td>
+        <td>2024-06-20 08:50:00</td>
+       </tr><input type="hidden" id="entity_id[]" name="entity_id[]" value="20715664"> <input type="hidden" id="maplatitude20715664" value="53.901532"> <input type="hidden" id="maplongitude20715664" value="16.066089"> <input type="hidden" id="maprange20715664" value="0"> <input type="hidden" id="range_unit20715664" value="km">
+       <tr>
+        <td>Radew</td>
+        <td>Białogórzyno</td>
+        <td>83 cm</td>
+        <td><big>↔</big> bez zmian</td>
+        <td>190 cm</td>
+        <td>210 cm</td>
+        <td>2024-06-20 08:50:00</td>
+       </tr><input type="hidden" id="entity_id[]" name="entity_id[]" value="20715665"> <input type="hidden" id="maplatitude20715665" value="54.062977"> <input type="hidden" id="maplongitude20715665" value="16.115956"> <input type="hidden" id="maprange20715665" value="0"> <input type="hidden" id="range_unit20715665" value="km">
+       <tr>
+        <td>Wieprza</td>
+        <td>Korzybie</td>
+        <td>32 cm</td>
+        <td><big>↔</big> bez zmian</td>
+        <td>130 cm</td>
+        <td>160 cm</td>
+        <td>2024-06-20 08:50:00</td>
+       </tr><input type="hidden" id="entity_id[]" name="entity_id[]" value="20715666"> <input type="hidden" id="maplatitude20715666" value="54.28051"> <input type="hidden" id="maplongitude20715666" value="16.878605"> <input type="hidden" id="maprange20715666" value="0"> <input type="hidden" id="range_unit20715666" value="km">
+       <tr>
+        <td>Wieprza</td>
+        <td>Stary Kraków</td>
+        <td>191 cm</td>
+        <td><big>↔</big> bez zmian</td>
+        <td>460 cm</td>
+        <td>500 cm</td>
+        <td>2024-06-20 08:50:00</td>
+       </tr><input type="hidden" id="entity_id[]" name="entity_id[]" value="20715667"> <input type="hidden" id="maplatitude20715667" value="54.442296"> <input type="hidden" id="maplongitude20715667" value="16.605835"> <input type="hidden" id="maprange20715667" value="0"> <input type="hidden" id="range_unit20715667" value="km">
+      </tbody>
+     </table>
+     <div class="pagination_desc">
+      liczba pozycji: <strong>20</strong>
+      <script>
+document.addEventListener("WebComponentsReady", function() {
+
+	var values = [];
+	var fields = document.getElementsByName("entity_id[]");
+	for(var i = 0; i < fields.length; i++) {
+	    //alert(fields[i].value);
+	    var map = document.getElementById("map1").map;
+
+	    if (fields[i].value !== null ) {
+	    	L.marker([document.getElementById("maplatitude"+fields[i].value).value, document.getElementById("maplongitude"+fields[i].value).value])
+			.addTo(map);
+	    }
+	}
+});
+
+</script>
+     </div>
+     <div style="float: right">
+      <a href="/komunikaty/zachodniopomorskie/stany-wod/0?_format=xml">Pobierz wersję XML</a>
+     </div>
+    </div>
+   </div>
+   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+   <script src="https://mapy.geoportal.gov.pl/iMapLiteTest/api/cdn/2.0.0/imgp-map/imap-lite-api.js"></script>
+   <script src="/bundles/timeteoportal/js/bootstrap.min.js"></script>
+   <script src="/bundles/timeteoportal/js/jquery-ui.js"></script>
+   <script>
+$(document).ready(function(){
+
+        $('[placeholder]').focus(function() {
+          var input = $(this);
+          if (input.val() == input.attr('placeholder')) {
+            input.val('');
+            input.removeClass('placeholder');
+          }
+        }).blur(function() {
+          var input = $(this);
+          if (input.val() == '' || input.val() == input.attr('placeholder')) {
+            input.addClass('placeholder');
+            input.val(input.attr('placeholder'));
+          }
+        }).blur();
+
+        $('[placeholder]').parents('form').submit(function() {
+          $(this).find('[placeholder]').each(function() {
+            var input = $(this);
+            if (input.val() == input.attr('placeholder')) {
+              input.val('');
+            }
+          })
+        });
+
+        $(function() {
+          $( "#from-id" ).datepicker({
+            dateFormat: 'yy-mm-dd',
+            regional: 'pl'
+          });
+        });
+        
+        $(function() {
+          $( "#to-id" ).datepicker({
+            dateFormat: 'yy-mm-dd',
+            regional: 'pl'
+          });
+        });           
+
+    $("#search-btn-id").click(function () {
+        search();
+    });
+    $("#search-id,#from-id,#to-id").change(function () {
+        search();
+    }); 
+    function search() {
+        var search = $('#search-id').val()=="szukaj..." ? "" : $('#search-id').val();
+        var from = $('#from-id').val()=="data od... (rrrr-mm-dd)" ? "" : $('#from-id').val();
+        var to = $('#to-id').val()=="data do... (rrrr-mm-dd)" ? "" : $('#to-id').val();        
+        var themeParams = '';
+            
+        
+        location = '/komunikaty/zachodniopomorskie/stany-wod?search=' + search + '&from=' + from + '&to=' + to + themeParams;
+
+    }
+});
+              
+    </script>
+  </div>
+ </body>
+</html>
+2024-06-20 10:38:57 INFO  RiverDataFetcher:89 - Number of records from komunikaty.tvp.pl: 286
+2024-06-20 10:38:57 INFO  RiverStatusApp:123 - Processing the refresh
+2024-06-20 10:38:57 INFO  RiverStatusApp:125 - chunks size: 1
+2024-06-20 10:38:57 INFO  RiverStatusApp:129 - rows: 600
+2024-06-20 10:38:57 INFO  RiverStatusApp:133 - Polish Data Refreshed
+2024-06-20 10:38:57 INFO  RiverStatusApp:144 - Data refresh completed
+2024-06-20 10:39:00 INFO  RiverStatusApp:57 - Applied secondary sort on 'Name of Station' column.
